@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 2008 The Android Open Source Project
- * Copyright (C) 2013-2014 The CyanogenMod Project
+ * Copyright (C) 2008 The Android Open Source Projec
  * Copyright (C) 2016 The QuantumDroid Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
