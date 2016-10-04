@@ -22,7 +22,7 @@ import com.android.settings.R;
 
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 
-public class devs extends SettingsPreferenceFragment {
+public class developer extends SettingsPreferenceFragment {
 
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
