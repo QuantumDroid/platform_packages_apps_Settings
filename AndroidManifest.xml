@@ -2871,7 +2871,7 @@
             android:icon="@drawable/ic_settings_qdengine"
             android:taskAffinity="">
             <intent-filter android:priority="1">
-                <action android:name="com.qd.engine.EngineFragment" />
+                <action android:name="com.qd.engine.Engine" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter>
@@ -2886,7 +2886,7 @@
             <meta-data android:name="com.android.settings.category"
                 android:value="com.android.settings.category.quantumengine" />
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.qd.engine.EngineFragments" />
+                android:value="com.qd.engine.Engine" />
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
         </activity>
