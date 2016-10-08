@@ -15,6 +15,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- QuantumDroid Engine -->
+    <string name="header_category_qdengine">Quantum Engine</string>
+    <string name="qdengine_title">QuantumDroid Engine</string>
+
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown_qd">
         <item quantity="one">You are now <xliff:g id="step_count">%1$d</xliff:g> step away from enabling development settings.</item>
