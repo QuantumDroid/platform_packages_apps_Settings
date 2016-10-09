@@ -21,6 +21,9 @@
 -keep class com.android.settings.display.*FragmentForSetupWizard
 -keep class com.qd.engine.**
 -keep class com.qd.engine.fragments.**
+-keep class com.qd.engine.input.**
+-keep class com.qd.engine.qdengine.**
+-keep class com.qd.engine.qdengine.tabs.**
 
 # Keep click responders
 -keepclassmembers class com.android.settings.inputmethod.UserDictionaryAddWordActivity {
